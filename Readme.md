@@ -1,6 +1,6 @@
 # Coffee Master
 
-[Project Website]()
+[Project Website](https://smey-coffee-master-vanillajs.pages.dev/)
 
 ## Project Description
 
